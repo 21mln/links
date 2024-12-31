@@ -23,6 +23,7 @@
 * [dcaBTC](https://dcabtc.com/) - DCA (dollar cost averaging) is a strategy to buy Bitcoin long-term, no matter what the price is. You can see why by reading the results.
 * [Bitcoin Dollar Cost Average Calculator](https://www.bitcoindollarcostaverage.com/)
 * [END the FUD](https://endthefud.org/) - The best articles debunking Bitcoin FUD (Fear Uncertaincy Doubt)
+* Bitcoin Mining and the Environment - From Michael Saylor to journalists, investors, regulators, & anyone else interested in Bitcoin & the environment
 * PricedInBitcoin21 - Denominates and tracks various assets in Bitcoin to see how they're devaluing over time
 * Why Bitcoin Only - Very comprehensive one-page site that makes the case for Bitcoin
 * [Nakamoto Portfolio](https://nakamotoportfolio.com/nakamoto/start) - Set of tools and research to see how Bitcoin performs to other assets.
@@ -34,6 +35,10 @@
 * [Border wallets](https://www.borderwallets.com/ ) - only in case of emergency when crossing borders
 * [Seed Signer](https://seedsigner.com/) - An offline Bitcoin signing device, create your private key offline
 * Don't store your bitcoin on an exchange. [BTC liquidations by exchange](https://www.cryptometer.io/liquidation-data)
+
+### Privacy and Bitcoin
+
+* [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/)
 
 ### Using Bitcoin
 
