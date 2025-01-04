@@ -55,6 +55,10 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * Wallet of Satoshi - simple integrated PoS into the app, custodial
 * [Ibex Pay](https://www.ibexpay.io/ibex-pay-point-of-sale-for-merchants) - custodial, with conversion to fiat
 
+### Nostr Wallet Connect (NWC)
+
+* [Easily attach wallet to SEND & RECEIVE sats from SN with Coinos.io and HODL](https://stacker.news/items/694593)
+
 
 ### Store safely: Bitcoin
 
