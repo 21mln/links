@@ -24,7 +24,7 @@
 * [Bitcoin Dollar Cost Average Calculator](https://www.bitcoindollarcostaverage.com/)
 * [END the FUD](https://endthefud.org/) - The best articles debunking Bitcoin FUD (Fear Uncertaincy Doubt)
 * Bitcoin Mining and the Environment - From Michael Saylor to journalists, investors, regulators, & anyone else interested in Bitcoin & the environment
-* PricedInBitcoin21 - Denominates and tracks various assets in Bitcoin to see how they're devaluing over time
+* [PricedInBitcoin21](https://www.pricedinbitcoin21.com/) - Denominates and tracks various assets in Bitcoin to see how they're devaluing over time
 * Why Bitcoin Only - Very comprehensive one-page site that makes the case for Bitcoin
 * [Nakamoto Portfolio](https://nakamotoportfolio.com/nakamoto/start) - Set of tools and research to see how Bitcoin performs to other assets.
 * [CaseBitcoin](https://casebitcoin.com/) - Making the case for Bitcoin
@@ -33,6 +33,12 @@
 
 * [Buying BTC with RoboSats: A Step-by-Step Guide](https://stacker.news/items/834397) - [important remarks](https://stacker.news/items/834397/r/chaum?commentId=834673)
 * [Buying BTC with Bisq 2 & Lightning](https://stacker.news/items/663856)
+
+### Bitcoin decoy/intermediary/temporary node or accounts
+All these decoy nodes are 24/7 online nodes that can handle very well a hold invoice for you and are not KYC:
+* [Coinos](https://coinos.io/)
+* [blink.sv](https://www.blink.sv/)
+* [lifepay.me](https://lifpay.me/en/)
 
 ### Store safely: Bitcoin
 
