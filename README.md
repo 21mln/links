@@ -42,6 +42,7 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 ### Light PoS (payment terminals)
 
+* [Alby PoS](https://pos.albylabs.com/) - also with NWC (nostr wallet connect)
 * [Opago Pay](https://opago-pay.com/en/) - easy to use offline device that fw payments to your own wallet / LN address, the Bitcoin PoS for boomers
 * CoinOS - very simple, non-KYC custodial account, web app with integrated swaps onchain-LN.
 * Blink Merchants - easy UI for small merchants, custodial, with fiat conversion
