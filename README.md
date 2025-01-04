@@ -42,7 +42,7 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 ### Point of Sale
 
-Definition - A simple UI where the user can add items, prices, stock, images and easily charge in BTC, directly from that PoS UI
+* [Point of Sale](https://stacker.news/items/600658) (DarthCoin @ Stacker News)
 * [BTCPay Server PoS App](https://docs.btcpayserver.org/Transmuter/EmailReceiptsPreset/#btcpay-pos-app-setup) - one of the biggest and well known self-custodial PoS
 * LNbits PoS - PWA or mobile app (useful for tablets), [offline shop](https://github.com/lnbits/offlineshop), [TPoS online](https://github.com/lnbits/tpos) and [offline device](https://github.com/lnbits/lnurldevice), self-custodial and/or shareable instance
 
