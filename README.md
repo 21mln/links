@@ -29,6 +29,11 @@
 * [Nakamoto Portfolio](https://nakamotoportfolio.com/nakamoto/start) - Set of tools and research to see how Bitcoin performs to other assets.
 * [CaseBitcoin](https://casebitcoin.com/) - Making the case for Bitcoin
 
+### Buying bitcoin (only non-kyc)
+
+* [Buying BTC with RoboSats: A Step-by-Step Guide](https://stacker.news/items/834397) - [important remarks](https://stacker.news/items/834397/r/chaum?commentId=834673)
+* [Buying BTC with Bisq 2 & Lightning](https://stacker.news/items/663856)
+
 ### Store safely: Bitcoin
 
 * [10x Security Bitcoin Guide](https://btcguide.github.io/) - How to store bitcoin without any single point of failure.
