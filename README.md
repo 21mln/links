@@ -40,7 +40,13 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * [blink.sv](https://www.blink.sv/)
 * [lifepay.me](https://lifpay.me/en/)
 
-### Light PoS (payment terminals)
+### Point of Sale
+
+Definition - A simple UI where the user can add items, prices, stock, images and easily charge in BTC, directly from that PoS UI
+* [BTCPay Server PoS App](https://docs.btcpayserver.org/Transmuter/EmailReceiptsPreset/#btcpay-pos-app-setup) - one of the biggest and well known self-custodial PoS
+* LNbits PoS - PWA or mobile app (useful for tablets), [offline shop](https://github.com/lnbits/offlineshop), [TPoS online](https://github.com/lnbits/tpos) and [offline device](https://github.com/lnbits/lnurldevice), self-custodial and/or shareable instance
+
+### Light Point of Sale (payment terminals)
 
 * [Alby PoS](https://pos.albylabs.com/) - also with NWC (nostr wallet connect)
 * [Opago Pay](https://opago-pay.com/en/) - easy to use offline device that fw payments to your own wallet / LN address, the Bitcoin PoS for boomers
