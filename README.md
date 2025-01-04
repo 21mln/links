@@ -40,6 +40,15 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * [blink.sv](https://www.blink.sv/)
 * [lifepay.me](https://lifpay.me/en/)
 
+### Light PoS (payment terminals)
+
+* [Opago Pay](https://opago-pay.com/en/) - easy to use offline device that fw payments to your own wallet / LN address, the Bitcoin PoS for boomers
+* CoinOS - very simple, non-KYC custodial account, web app with integrated swaps onchain-LN.
+* Blink Merchants - easy UI for small merchants, custodial, with fiat conversion
+* Wallet of Satoshi - simple integrated PoS into the app, custodial
+* [Ibex Pay](https://www.ibexpay.io/ibex-pay-point-of-sale-for-merchants) - custodial, with conversion to fiat
+
+
 ### Store safely: Bitcoin
 
 * [10x Security Bitcoin Guide](https://btcguide.github.io/) - How to store bitcoin without any single point of failure.
