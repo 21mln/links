@@ -77,3 +77,10 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * [silent.link](https://silent.link/) - Get global mobile 4G/5G Internet access and burner phone numbers instantly and privately with on any modern eSIM-compatible smartphone.
 * [LNeSIM](https://www.lnesim.com/) - Instantly buy travel eSIM with Bitcoin Lightning Network. No KYC or email required.
 * [sms4sats](https://sms4sats.com/) - Send and receive SMS with without giving away your phone number. Get a temporary mobile phone number with Lightning.
+
+## Privacy
+
+### Messaging apps
+
+* [Privacy evaluation of messaging apps](https://stacker.news/items/836471)
+* [0xchat](https://www.0xchat.com/)
