@@ -106,8 +106,12 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * Weather
 
 Apps to try
+
+* [Aegis Authenticator](https://getaegis.app/) - a free, secure and open source app for Android to manage your 2-step verification tokens for your online services.
 * Mull browser
+* [DavX5](https://f-droid.org/packages/at.bitfire.davdroid/) - CalDAV/CardDAV management and synchronisation (to sync contacts, calendar, files from your own server)
 * [UntrackMe ](https://f-droid.org/en/packages/app.fedilab.nitterizeme/) - Open YouTube videos in an alternative youtube frontend that you choose
 * [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/)
 * [KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) - seamless communication back and forth between your phone and computer
 * [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - loyalty cards
+* [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Video and audio player
