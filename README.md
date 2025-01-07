@@ -84,3 +84,30 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 * [Privacy evaluation of messaging apps](https://stacker.news/items/836471)
 * [0xchat](https://www.0xchat.com/)
+
+## Android apps with privacy in mind
+
+* [FUTO Keyboard](https://keyboard.futo.org/) - offline keyboard with swiping functionality and offline voice input
+* Simplex
+* Amethyst (Nostr client)
+* Brave browser
+* FreeOTP+
+* GMaps WV - You can use this to get the coordinates of your destination and use it in Organic Maps, because Organic Maps can't find a lot of destinations.
+* LogSeq
+* NewPipe - Alternative YouTube frontend
+* Obtainium - Updates your apps without using Google Play Store
+* Organic Maps
+* Proton Mail
+* Proton VPN
+* SimpleLogin
+* Syncthing
+* Threema Libre
+* Tor Browser
+* Weather
+
+Apps to try
+* Mull browser
+* [UntrackMe ](https://f-droid.org/en/packages/app.fedilab.nitterizeme/) - Open YouTube videos in an alternative youtube frontend that you choose
+* [LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/)
+* [KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) - seamless communication back and forth between your phone and computer
+* [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - loyalty cards
