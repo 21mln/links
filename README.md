@@ -115,3 +115,4 @@ Apps to try
 * [KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/) - seamless communication back and forth between your phone and computer
 * [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - loyalty cards
 * [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Video and audio player
+* [Binary Eye](https://github.com/markusfisch/BinaryEye) - QRcode and barcode scanner
