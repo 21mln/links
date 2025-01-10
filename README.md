@@ -119,3 +119,8 @@ Apps to try
 * [Catima](https://f-droid.org/packages/me.hackerchick.catima/) - loyalty cards
 * [VLC](https://f-droid.org/packages/org.videolan.vlc/) - Video and audio player
 * [Binary Eye](https://github.com/markusfisch/BinaryEye) - QRcode and barcode scanner
+
+### Desktop
+
+* [FreeTube](https://freetubeapp.io/) - Private YouTube client.
+* [LogSeq](https://logseq.com/) - Open source note taking app
