@@ -93,10 +93,12 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * Amethyst (Nostr client)
 * Brave browser
 * FreeOTP+
+* [GrayJay](https://grayjay.app/) - Alternative YouTube frontends, Rumble, Bitchute, SoundCloud and more.
 * GMaps WV - You can use this to get the coordinates of your destination and use it in Organic Maps, because Organic Maps can't find a lot of destinations.
 * LogSeq
 * NewPipe - Alternative YouTube frontend
 * Obtainium - Updates your apps without using Google Play Store
+* [Orbot](https://orbot.app/en/) - Orbot (on Android) allows you to specifically choose which apps to route through Tor, allowing you to still use apps and service that may be concerned with traffic coming from Tor.
 * Organic Maps
 * Proton Mail
 * Proton VPN
