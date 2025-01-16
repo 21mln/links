@@ -89,6 +89,7 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 ## Android apps with privacy in mind
 
+* [Android FOSS](https://github.com/offa/android-foss?tab=readme-ov-file#-calendar)
 * [FUTO Keyboard](https://keyboard.futo.org/) - offline keyboard with swiping functionality and offline voice input
 * Simplex
 * Amethyst (Nostr client)
