@@ -69,6 +69,7 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 ### Store safely: Bitcoin
 
+* [How to Back Up a Seed Phrase](https://blog.lopp.net/how-to-back-up-a-seed-phrase/) - Jameson Lopp
 * [10x Security Bitcoin Guide](https://btcguide.github.io/) - How to store bitcoin without any single point of failure.
 * [Border wallets](https://www.borderwallets.com/ ) - only in case of emergency when crossing borders
 * [Seed Signer](https://seedsigner.com/) - An offline Bitcoin signing device, create your private key offline
