@@ -1,5 +1,11 @@
 # Links
 
+## Frontend
+
+### HTML
+
+* [HTML Character Entity References](https://symbl.cc/en/html-entities/)
+
 ## Bitcoin
 
 ### Start your journey in Bitcoin here
