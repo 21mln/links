@@ -78,6 +78,8 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * [Border wallets](https://www.borderwallets.com/ ) - only in case of emergency when crossing borders
 * [Seed Signer](https://seedsigner.com/) - An offline Bitcoin signing device, create your private key offline
 * Don't store your bitcoin on an exchange. [BTC liquidations by exchange](https://www.cryptometer.io/liquidation-data)
+* [Build your HODL BTC cold wallet](https://darth-coin.github.io/wallets/tails-hodl-cold-wallet-en.html) - DarthCoin guide
+* [How to MAKE your own Cold Wallet](https://stacker.news/items/569901) - Advice not to use a hardware wallet
 
 ### Privacy and Bitcoin
 
