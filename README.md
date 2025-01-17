@@ -109,6 +109,7 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 * Amethyst (Nostr client)
 * Brave browser
 * FreeOTP+
+* [VLC Player](https://www.videolan.org/) - [APK](https://get.videolan.org/vlc-android/) for android
 * [GrayJay](https://grayjay.app/) - Alternative YouTube frontends, Rumble, Bitchute, SoundCloud and more.
 * GMaps WV - You can use this to get the coordinates of your destination and use it in Organic Maps, because Organic Maps can't find a lot of destinations.
 * LogSeq
