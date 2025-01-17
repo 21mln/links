@@ -2,6 +2,10 @@
 
 ## Frontend
 
+### To Try
+
+* [Nitropage](https://nitropage.com/) - FOSS visual website builder build with solidjs (cms)
+
 ### HTML
 
 * [HTML Character Entity References](https://symbl.cc/en/html-entities/)
