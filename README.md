@@ -4,6 +4,7 @@
 
 ### To Try
 
+* [npub.pro](https://npub.pro/) - Beautiful nostr-based websites for creators
 * [Nitropage](https://nitropage.com/) - FOSS visual website builder build with solidjs (cms)
 
 ### HTML
