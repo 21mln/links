@@ -20,6 +20,7 @@
 ### Info and learning about Bitcoin
 
 * [Bitcoin Guide](https://bitcoiner.guide/) - For starters, intermediate and advanced users.
+* [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) - Jameson Lopp
 * [Darthcoin Guides](https://darth-coin.github.io/)
 * [The Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [Nakamoto Institute](https://nakamotoinstitute.org/) - Learn about the prior history of Bitcoin, all the technology it uses, its economics and impact.
