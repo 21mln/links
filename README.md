@@ -12,6 +12,10 @@
 * [Jitsi as a Service](https://jaas.8x8.vc/) - Run Jitsi on localhost, your website, mobile app with just a snippet of HTML
 * [HTML Character Entity References](https://symbl.cc/en/html-entities/)
 
+## Nostr
+
+* [Easily attach wallet to SEND & RECEIVE sats from SN with Coinos.io and HODL](https://stacker.news/items/694593)
+
 ## Bitcoin
 
 ### Start your journey in Bitcoin here
