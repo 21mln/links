@@ -35,6 +35,7 @@
 * [BitcoinTV](https://bitcointv.com/) - Not necessary anymore to search YouTube for Bitcoin videos
 * [Bitcoin Dashboard (Clark Moody)](https://bitcoin.clarkmoody.com/dashboard/) - Real-time Bitcoin tools: charts, trading, fundamentals and economics
 * [Satsconverter](https://satsconverter.io/) - Convert your currency to bitcoin/satoshis and vice versa
+* [I Exposed Crypto Scams at an Ordinals Conf in Hong Kong](https://stacker.news/items/854267) - Joe Nakamoto
 
 ### Why use/save in Bitcoin?
 
