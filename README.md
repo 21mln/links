@@ -149,3 +149,4 @@ Apps to try
 * [FreeTube](https://freetubeapp.io/) - Private YouTube client.
 * [LogSeq](https://logseq.com/) - Open source note taking app
 * [Libre Office](https://www.libreoffice.org/)
+* [MiroTalk](https://sfu.mirotalk.com/) - Free browser based Real-time video calls. Simple, Secure, Fast.
