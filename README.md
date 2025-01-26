@@ -25,6 +25,7 @@
 ### Info and learning about Bitcoin
 
 * [Bitcoin Guide](https://bitcoiner.guide/) - For starters, intermediate and advanced users.
+* [Bitcoin Learning Resources](https://stacker.news/items/412443) - Stacker News
 * [Bitcoin Information & Resources](https://www.lopp.net/bitcoin-information.html) - Jameson Lopp
 * [Noderunners](https://noderunners.network/en/) - Bitcoin podcasts, video's and tutorials
 * [Darthcoin Guides](https://darth-coin.github.io/)
@@ -40,6 +41,7 @@
 
 ### Why use/save in Bitcoin?
 
+* [The Bullish Case For Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1) - by Vijay Boyapati
 * [dcaBTC](https://dcabtc.com/) - DCA (dollar cost averaging) is a strategy to buy Bitcoin long-term, no matter what the price is. You can see why by reading the results.
 * [Bitcoin Dollar Cost Average Calculator](https://www.bitcoindollarcostaverage.com/)
 * [END the FUD](https://endthefud.org/) - The best articles debunking Bitcoin FUD (Fear Uncertaincy Doubt)
