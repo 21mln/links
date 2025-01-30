@@ -11,6 +11,8 @@
 
 * [Jitsi as a Service](https://jaas.8x8.vc/) - Run Jitsi on localhost, your website, mobile app with just a snippet of HTML
 * [HTML Character Entity References](https://symbl.cc/en/html-entities/)
+* [SVG Encoder](https://svgencode.com/)
+* [Monaspace (font)](https://monaspace.githubnext.com/) - Fonts for code, variable fonts
 
 ## Nostr
 
