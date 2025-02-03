@@ -55,6 +55,7 @@
 
 ### Buying bitcoin (only non-kyc)
 
+* [How I Buy Non-KYC Bitcoin](https://stacker.news/items/874702)
 * [Buying BTC with RoboSats: A Step-by-Step Guide](https://stacker.news/items/834397) - [important remarks](https://stacker.news/items/834397/r/chaum?commentId=834673)
 * [Buying BTC with Bisq 2 & Lightning](https://stacker.news/items/663856)
 
