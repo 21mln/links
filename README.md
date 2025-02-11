@@ -7,6 +7,10 @@
 * [npub.pro](https://npub.pro/) - Beautiful nostr-based websites for creators
 * [Nitropage](https://nitropage.com/) - FOSS visual website builder build with solidjs (cms)
 
+### JavaScript
+
+* [Refactoring Guru](https://refactoring.guru/) - Design patterns and refactoring
+
 ### HTML
 
 * [Jitsi as a Service](https://jaas.8x8.vc/) - Run Jitsi on localhost, your website, mobile app with just a snippet of HTML
