@@ -156,6 +156,7 @@ Apps to try
 
 ### Desktop
 
+* [Actual](https://actualbudget.org/) - Open source budgeting where data is local.
 * [FreeTube](https://freetubeapp.io/) - Private YouTube client.
 * [LogSeq](https://logseq.com/) - Open source note taking app
 * [Libre Office](https://www.libreoffice.org/)
