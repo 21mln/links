@@ -10,6 +10,7 @@
 ### JavaScript
 
 * [Refactoring Guru](https://refactoring.guru/) - Design patterns and refactoring
+* [patterns](https://www.patterns.dev/) - design, rendering, and performance patterns for building web apps with vanilla JavaScript or modern frameworks.
 
 ### HTML
 
