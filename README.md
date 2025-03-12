@@ -7,6 +7,10 @@
 * [npub.pro](https://npub.pro/) - Beautiful nostr-based websites for creators
 * [Nitropage](https://nitropage.com/) - FOSS visual website builder build with solidjs (cms)
 
+### Online tools
+
+* [PeerPad](https://peerpad.net/) - Write, edit and collaborate in markdown in the browser.
+
 ### JavaScript
 
 * [Refactoring Guru](https://refactoring.guru/) - Design patterns and refactoring
