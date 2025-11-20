@@ -119,6 +119,8 @@ All these decoy nodes are 24/7 online nodes that can handle very well a hold inv
 
 ## Privacy
 
+* Read articles without ads and tracking: <a href="https://archive.is/">archive.is</a> en <a href="https://removepaywalls.com/">Remove Paywalls</a>
+
 ### Messaging apps
 
 * [Privacy evaluation of messaging apps](https://stacker.news/items/836471)
